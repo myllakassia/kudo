@@ -1,0 +1,62 @@
+.container-register {
+    width: 300px;
+    margin: 60px auto;
+    border: 2px red;
+    padding: 15px;
+    border-radius: 6px;
+    background-color: #5d5656a2;
+    justify-content: center;
+}
+
+.register {
+    display: block;
+    font-size: 30px;
+    margin-bottom: 5px;
+    color: #f4eeee ; 
+    line-height: 1.2;
+    text-align: center;
+    font-weight: bold;
+}
+
+.wrap-container {
+    margin-top: 15px;
+    color: #f4eeee;
+    font-size: 17px;
+    line-height: 2.0;
+    padding: 0 5px;
+}
+
+.input-user {
+    width: 100%;
+    position: relative;
+    border-radius: 6px;
+    font-size: 15px;
+
+}
+
+.required {
+    font-size: 10px;
+    color: #f9931c;
+    margin-top: 5px;
+}
+
+.submit-btn {
+    font-size: 15px;
+    align-items: center;
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    cursor: pointer;
+
+    line-height: 1.2;
+
+    text-transform: uppercase;
+    display: block;
+    width: 100%;
+    height: 50px;
+
+    background: -webkit-linear-gradient(to left, #27aae2, #f9931c);
+    background: -o-linear-gradient(to left, #27aae2, #f9931c);
+    background: -moz-linear-gradient(to left, #27aae2, #f9931c);
+    background: linear-gradient(to left, #27aae2, #f9931c);
+}
